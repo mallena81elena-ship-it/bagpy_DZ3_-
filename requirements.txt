@@ -1,0 +1,4 @@
+bagpy
+pandas
+matplotlib
+numpy
